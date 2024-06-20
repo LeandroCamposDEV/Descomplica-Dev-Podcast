@@ -34,4 +34,6 @@ A edição dos áudios e a adição de sons de fundo são feitas com o CapCut, g
 
 ## Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/leandro-campos-dev/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-campos-dev/)
+
